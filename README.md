@@ -14,7 +14,7 @@ Poetry
 1. Clone this project
 
    ```shell
-   git clone git@github.com:Kleber-JF/bookstore-ebac.git
+   git clone https://github.com/Kleber-JF/generic_twitter.git
    ```
 
 2. Install dependencies:
